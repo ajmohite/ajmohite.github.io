@@ -1,17 +1,20 @@
-🕉️ BhaktiHub — Your Daily Sanatan Spiritual Companion
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-Embrace devotion, peace, and spiritual wisdom every day with BhaktiHub. Designed for devotees and seekers, BhaktiHub brings together sacred texts, daily rituals, authentic Hindu calendar details, and divine temple sounds into one simple app.
+# Run and deploy your AI Studio app
 
-🌟 Key Features:
-📖 Aarti, Chalisa & Mantra Collection • Read Aartis, Chalisas, and Mantras dedicated to Lord Ganesha, Lord Shiva, Shri Ram, Lord Krishna, Goddess Durga, Lord Hanuman, Goddess Lakshmi, and more. • Clean, easy-to-read text in Hindi and English.
+This contains everything you need to run your app locally.
 
-📅 Daily Hindu Panchang & Calendar • Access daily Tithi, Nakshatra, Yoga, and auspicious timings. • Track upcoming Hindu festivals, fasts (Vrats), and holy days.
+View your app in AI Studio: https://ai.studio/apps/310aa267-cef7-49cd-b8f6-8583c4849ae9
 
-🔔 Devotional Sounds & Temple Instruments • Recreate authentic temple ambiance with sounds of Shankh (Conch), Temple Bell (Ghanti), Dhol, and Maharashtra Dhol-Tasha. • Background audio player for peaceful listening during meditation or prayer.
+## Run Locally
 
-📚 Gyan Sagar (Sanatan Wisdom) • Explore curated articles on Sanatan scriptures, Vedic teachings, and spiritual wisdom.
+**Prerequisites:**  Node.js
 
-🎙️ Personal Voice Recording • Use the My Recordings feature to record recitations of Aartis and Mantras in your own voice and save them to listen anytime.
 
-❤️ Favorites & Language Options • Bookmark your daily Aartis and Chalisas for quick access. • Choose between Hindi and English interface options.
-Download BhaktiHub today and begin your daily devotional journey! 🕉️
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
