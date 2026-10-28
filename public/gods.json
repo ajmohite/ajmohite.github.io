@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "श्री गणेश",
+    "type": "GANESH",
+    "image": "God/ganesh.jpg",
+    "priority": 1,
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 2,
+    "name": "श्री विष्णु",
+    "type": "VISHNU",
+    "priority": 0,
+    "image": "God/vishnu.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 3,
+    "name": "शिवजी",
+    "type": "SHIVA",
+    "priority": 0,
+    "image": "God/shiva.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 4,
+    "name": "दुर्गा माँ",
+    "type": "DURGA",
+    "priority": 0,
+    "image": "God/durga.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 5,
+    "name": "श्री हनुमान",
+    "type": "HANUMAN",
+    "priority": 0,
+    "image": "God/hanuman.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 6,
+    "name": "श्री कृष्ण",
+    "type": "KRISHNA",
+    "priority": 0,
+    "image": "God/krishna.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 7,
+    "name": "श्री राम",
+    "type": "RAM",
+    "priority": 0,
+    "image": "God/ram.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 8,
+    "name": "श्री लक्ष्मी",
+    "type": "LAKSHMI",
+    "priority": 0,
+    "image": "God/lakshmi.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 9,
+    "name": "माँ सरस्वती",
+    "type": "SARASWATI",
+    "priority": 0,
+    "image": "God/saraswati.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 10,
+    "name": "विठोबा",
+    "type": "VITHOBA",
+    "image": "God/vithoba.jpg",
+    "priority": 0,
+    "supported_lang": ["MARATHI"]
+  },
+  {
+    "id": 11,
+    "name": "खंडोबा",
+    "type": "KHANDOBA",
+    "priority": 0,
+    "image": "God/khandoba.jpg",
+    "supported_lang": ["MARATHI"]
+  },
+  {
+    "id": 12,
+    "name": "सूर्यदेव",
+    "type": "SURYADEV",
+    "priority": 0,
+    "image": "God/suraydev.jpeg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  },
+  {
+    "id": 13,
+    "name": "शनिदेव",
+    "type": "SHANIDEV",
+    "priority": 0,
+    "image": "God/shanidev.jpg",
+    "supported_lang": ["HINDI", "ENGLISH", "MARATHI", "GUJARATI"]
+  }
+]

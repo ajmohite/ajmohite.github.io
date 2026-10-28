@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "displayName": "हिन्दी",
+    "type": "HINDI",
+    "disable": 1
+  },
+  {
+    "id": 2,
+    "displayName": "English",
+    "type": "ENGLISH",
+    "disable": 1
+  },
+  {
+    "id": 3,
+    "displayName": "मराठी",
+    "type": "MARATHI",
+    "disable": 1
+  },
+  {
+    "id": 4,
+    "displayName": "ગુજરાતી",
+    "type": "GUJARATI",
+    "disable": 1
+  },
+  {
+    "id": 5,
+    "displayName": "বাংলা",
+    "type": "BENGALI",
+    "disable": 0
+  },
+  {
+    "id": 6,
+    "displayName": "ਪੰਜਾਬੀ",
+    "type": "PUNJABI",
+    "disable": 0
+  },
+  {
+    "id": 7,
+    "displayName": "தமிழ்",
+    "type": "TAMIL",
+    "disable": 0
+  },
+  {
+    "id": 8,
+    "displayName": "తెలుగు",
+    "type": "TELUGU",
+    "disable": 0
+  },
+  {
+    "id": 9,
+    "displayName": "ಕನ್ನಡ",
+    "type": "KANNADA",
+    "disable": 0
+  },
+  {
+    "id": 10,
+    "displayName": "മലയാളം",
+    "type": "MALAYALAM",
+    "disable": 0
+  },
+  {
+    "id": 11,
+    "displayName": "ଓଡ଼ିଆ",
+    "type": "ODIA",
+    "disable": 0
+  },
+  {
+    "id": 12,
+    "displayName": "অসমীয়া",
+    "type": "ASSAMESE",
+    "disable": 0
+  }
+]

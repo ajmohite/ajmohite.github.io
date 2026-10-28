@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Aarti of Shri Ganesh Ji",
+    "content": "Jai Ganesh, Jai Ganesh, Jai Ganesh Deva.\nMata Jaki Parvati, Pita Mahadeva.\n\nEk dant dayavant, char bhuja dhari.\nMathe sindur sohe, muse ki savari.\n\nAndhan ko aankh det, kodhin ko kaya.\nBanjhan ko putra det, nirdhan ko maya.\n\nHaar chadhe phool chadhe, aur chadhe meva.\nLadduan ka bhog lage, sant karen seva.",
+    "godType": "GANESH",
+    "language": "English"
+  },
+  {
+    "id": 4,
+    "title": "Aarti of Lord Shiva",
+    "content": "Jai Shiv Omkara, Har Om Shiv Omkara.\nBrahma Vishnu Sadashiv, Ardhangi dhara.\n\nEkanan Chaturanan Panchanan raje.\nHansasan Garudasan Vrishvahan saje.\n\nDo bhuj charu chaturbhuj das bhuj ati sohe.\nTeenon roop nirakhta tribhuvan jan mohe.",
+    "godType": "SHIVA",
+    "language": "English"
+  },
+  {
+    "id": 9,
+    "title": "Aarti of Shri Ramchandra Ji",
+    "content": "Shri Ramchandra kripalu bhaju man haran bhavbhay daarunam.\nNavkanj lochan, kanjmukh, karkanj, padkanjaarunam.\n\nKandarp aganit amit chhabi, navneelneerad sundaram.\nPat peet manahu tadit ruchi shuchi naumi Janak sutaavaram.\n\nBhaju deenbandhu dinesh daanavdaityavanshnikandanam.\nRaghunand aanandakand Koshalchand Dashrathnandanam.",
+    "godType": "RAM",
+    "language": "English"
+  },
+  {
+    "id": 8,
+    "title": "Aarti of Shri Lakshmi Mata",
+    "content": "Om Jai Lakshmi Mata, Maiya Jai Lakshmi Mata.\nTumko nisdin sevat, har Vishnu Vidhata.\n\nUma, Rama, Brahmani, tum jag ki mata.\nSurya Chandrama dhyavat, Narad Rishi gata.\n\nDurgarup Niranjan, sukh sampatti data.\nJo koi तुमको dhyata, riddhi siddhi dhan pata.",
+    "godType": "LAKSHMI",
+    "language": "English"
+  }
+]

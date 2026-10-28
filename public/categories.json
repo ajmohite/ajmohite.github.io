@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "name": "आरती",
+    "key": "Aarti",
+    "disabled": 0
+  },
+  {
+    "id": 1,
+    "name": "मंत्र/श्लोक",
+    "key": "Mantra",
+    "disabled": 0
+  },
+  {
+    "id": 3,
+    "name": "चालीसा",
+    "key": "Chalisa",
+    "disabled": 0
+  },
+  {
+    "id": 4,
+    "name": "पंचांग",
+    "key": "Panchang",
+    "disabled": 1
+  },
+  {
+    "id": 5,
+    "name": "सनातन ज्ञान",
+    "key": "SanatanGyan",
+    "disabled": 0
+  },
+  {
+    "id": 6,
+    "name": "सनातन कैलेंडर",
+    "key": "Calander",
+    "disabled": 0
+  },
+  {
+    "id": 7,
+    "name": "भक्ति स्वर व वाद्य",
+    "key": "DevotionalSounds",
+    "disabled": 0
+  }
+]
