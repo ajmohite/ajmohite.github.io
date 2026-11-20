@@ -1,7 +1,7 @@
 {
   "app_details" : {
-    "version": 1.0,
-  "versioncode": 7,
-  "whats_new" : "Performance Imrovement"
+    "version": 1.1,
+  "versioncode": 8,
+  "whats_new": "major Performance Improvement"
   }
 }
